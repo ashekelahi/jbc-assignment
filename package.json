@@ -8,6 +8,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.13"
+    "nuxt": "3.0.0-rc.13",
+    "sass": "^1.56.0",
+    "sass-loader": "^13.1.0",
+    "video.js": "^7.20.3"
+  },
+  "dependencies": {
+    "@nuxtjs/harlem": "^1.1.1"
   }
 }
